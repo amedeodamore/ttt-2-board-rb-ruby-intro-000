@@ -2,3 +2,5 @@
 def board
   board = [" "," "," "," "," "," "," "," "," "]
 end
+
+puts board
