@@ -2,6 +2,7 @@
 
 board = "board"
 
+board = [" "," "," "," "," "," "," "," "," "]
 
 
 #def board
